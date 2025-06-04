@@ -28,7 +28,7 @@ Why: This password has everything — mixed cases, numbers, special characters, 
 Result: Very Strong (95%)
 Why: A creative passphrase that’s long, contains a mix of characters, and is unique. It’s easier to remember yet incredibly hard for bots to crack.
 
-5.abcABC123!@#
+5.abcABC123!@#9()*
 
 Result: Good (78%)
 Why: A solid structure with all character types. However, its pattern (lowercase-uppercase-numbers-symbols) is commonly used, which slightly reduces its strength.
